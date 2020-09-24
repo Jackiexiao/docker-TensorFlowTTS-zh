@@ -1,7 +1,7 @@
 # Docker-TensorFlowTTS-zh
 基于TensorFlowTTS的中文CPU实时TTS Demo，在CPU服务器部署后可通过网页交互体验
 
-Docker image for [TensorFlowTTS-zh-using-baker-dataset](https://colab.research.google.com/drive/1YpSHRBRPBI7cnTkQn1UcVTWEQVbsUm1S) from [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
+Docker image for [Colab-zh-tts-using-baker-dataset](https://colab.research.google.com/drive/1YpSHRBRPBI7cnTkQn1UcVTWEQVbsUm1S) from [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
 
 使用 [@azraelkuan](https://github.com/azraelkuan) 提供的中文预训练模型（tacotron2 + MB-MelGAN）
 
